@@ -6,5 +6,5 @@ It is capable of doing operations with mulitple values and operators, follows BE
 
 To run this program, download the files and use the Android Studio emulator.
 
-If you just want to see my code (for style/alorithm analysis) see:
+If you just want to see my code (for style/algorithm analysis) see:
   app/src/main/java/com/example/simplecalculator
